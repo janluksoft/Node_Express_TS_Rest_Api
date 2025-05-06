@@ -3,7 +3,7 @@
 ## Overview
 This application is a **minimal RESTful Web API** built with .NET 8. It demonstrates how to build a fully functional REST API **without using a database** — instead, it works on an in-memory `List<Shareholder>`.
 
-Swagger (via Swashbuckle) is included to explore and test theendpoints.
+Swagger (via Swashbuckle) is included to explore and test the endpoints.
 
 ---
 
